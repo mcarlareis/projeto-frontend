@@ -1,0 +1,32 @@
+body {
+   
+}
+
+.menu-suspenso {
+    max-width: 350px;
+    width: 100%;
+    background-color: #ffffffff;
+}
+
+.menu-suspenso ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.menu-suspenso ul li a {
+    background-color: #ffffffff;
+    color: #FFF;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    transition: background .3s;
+    text-transform: uppercase;
+}
+
+
+.menu-suspenso li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
