@@ -1,0 +1,183 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+  background-color: #E5E5E5;
+  padding: 0;
+  max-width: 100vw !important;
+  }
+
+  p {
+      font-size: 16px;
+  }
+
+.container {
+  display: inline-flexbox;
+  }
+#container-navbar {
+margin: 0;
+padding: 0;
+
+}
+.text-card {
+  font-size: small;
+}
+
+
+.box-samsung {
+  padding: 1vw 0px;
+}
+
+#centro {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+#esquerda {
+  margin: 20px 0 0 5px;
+}
+
+.badge {
+  background-color: #ffffffe8;
+  border-radius: 80px;
+  margin: 5px;
+  color: #000000;
+  text-decoration: none;
+  padding: 15px 1px;
+}
+
+.principal {
+  background-color: #2f9ff8;
+  border-radius: 80px;
+  margin: 5px;
+  border-radius: 80px;
+}
+
+.menu-selecionado {
+  background: #ccdeff;
+  border-radius: 0 100px 100px 0 !important;
+  color: #2f9ff8;
+  padding: 10px 2px;
+  font-weight: bold;
+}
+
+#container-justify {
+    width: 100vw;
+    
+}
+
+.navbar {
+    width: 100vw;
+    margin: 0;
+}
+
+.search {
+  background-color: #2f9ef813;
+  border-radius: 10px;
+  padding: 10px 0;
+  margin: 15px 15px;
+}
+
+ 
+
+#icon-search {
+  width: 2.5vw;
+  height: 1.1vw;
+}
+
+
+.my-profile {
+  padding-right: 10px;
+
+}
+
+.container-subscribe {
+  background: #2f9ff8;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 12px 10px;
+  object-position: center;
+
+}
+
+.price {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+#container-inicial {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+
+
+#container-samsung {
+    background:#fff;
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+#titulo-principal-1 {
+    margin: 15px 0;  
+}
+
+#box-texts {
+    background:#fff;
+    border-radius: 10px;
+    padding: 20px 40px;
+   
+    
+}
+
+
+#box-noticias-1 {
+    padding: 0 !important;
+    margin: 0px !important;
+
+}
+
+.linha-do-tempo > #icon-container-sunny {
+    width: 2vw;
+    height: 2vw;
+}
+
+.img-fluid {
+    padding: 20px;
+}
+
+.card.mb-3 {
+    padding: 10px;
+    margin:0px;
+}
+
+#container-follows {
+    align-items:center;
+ 
+}
+
+.mx-auto {
+    margin-right: 0 !important;
+    width: 14vw;
+    height: 11vw;
+}
+
+h5.titulo-principal {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.me-auto{
+ margin: 10px 0;
+
+}
+
+.subscribe-2 {
+    background: #2f9ff8;
+}
